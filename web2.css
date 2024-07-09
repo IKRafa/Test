@@ -1,5 +1,6 @@
 .t{
     color: white;
+    cursor: pointer;
 }
 
 .t:active{
