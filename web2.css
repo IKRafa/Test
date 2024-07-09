@@ -1,0 +1,7 @@
+.t{
+    color: white;
+}
+
+.t:active{
+    color: rgb(0, 190, 0);
+}
