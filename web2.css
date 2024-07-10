@@ -1,8 +1,17 @@
 .t{
-    color: black;
+    color: white;
+    background-color: Black; 
+    border: none;
     cursor: pointer;
 }
 
 .t:active{
-    color: rgb(0, 190, 0);
+    color: white;
+    background-color: rgb(0, 190, 0);
+    
+}
+
+.t:hover{
+    color: white;
+    background-color: blue;
 }
